@@ -15,24 +15,19 @@
 
  ```javascript
   const Hadi = {
-  	pronouns: ['Hadi.Az', 'hado', 'Choso'],
-    	Languages: ['Javascript', 'PHP', 'HTML', 'CSS'],
+  	pronouns: ['Ashkan', 'AshkanKD', 'KD'],
+    	Languages: ['Javascript', 'java', 'lua', 'CSS', 'HTML'],
     	Tools: ['VSCode', 'Node', 'Discord.jS'],
     	hobbies:[
 	    FavSingers: ['Halsey', 'BlackPink', 'BTS'],
-	    TikTok: true,
-	    YouTube: true,
-	    WatchingKDrama: true,
-	    TVSeries: false
+	    YouTube: true
 	],  
     	Projects: {
-    	    SetarBot: "a Music Bot Created for Discord",
-             Cicada: "Biggest Persian Discord Community",
-	    D E X T E R : "Biggest Persian Developers Discord Server"
+    	      DJ V: "a Music Bot Created for Discord",
+            EcoBot: "a Bot Created for Discor",
     	},
-    	website: "http://hadi-az.ir",
-         website: "https://hadi.js.org"
-  }
+    	website: "http://kdteam.ir",
+=  }
 ```
 
 <h2>Contact Me <img width="50" height="28" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="socialmedia"></h2>
