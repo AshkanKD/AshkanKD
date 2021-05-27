@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Hi, I'm Hadi.Az 
+<h2>Hi, I'm AshkanKD
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/76/waving-hand-sign_emoji-modifier-fitzpatrick-type-1-2_1f44b-1f3fb_1f3fb.png" width="30">
 </h2>
 </div>
@@ -48,4 +48,4 @@
 <a href="https://www.buymeacoffee.com/BoyCode"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=BoyCode&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
 
 #
-<div align="center"><font size="2px;">© Created By <a href="https://github.com/EhsanFox">EhsanFox</a> For <a href"http://3tarbot.ir">Team</a></font></div>
+<div align="center"><font size="2px;">© Created By <a href="https://github.com/EhsanFox">AshkanKD</a> For <a href"http://3tarbot.ir">KD Team</a></font></div>
