@@ -4,10 +4,7 @@
 </h2>
 </div>
 <em>Developer of <a href="https://github.com/kdteam-ir">KD Team</a></em></br>
-<em>Founder of <a href="https://kdteam.ir/">KD Team</a></em></br>
-
-<em>Founder of <a href="https://kdteam.ir/">KD</a></em>
-
+<em>Founder of <a href="https://kdteam.ir/">KD</a></em></br>
 
 
 </br>
