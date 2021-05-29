@@ -11,13 +11,12 @@
 </br>
 </br>  
 
- ```javascript
-  const Hadi = {
+ ```js
+  const Ashkan = {
   	pronouns: ['Ashkan', 'AshkanKD', 'KD'],
     	Languages: ['Javascript', 'java', 'lua', 'CSS', 'HTML'],
     	Tools: ['VSCode', 'Node', 'Discord.jS'],
     	hobbies:[
-	    FavSingers: ['Halsey', 'BlackPink', 'BTS'],
 	    YouTube: true
 	],  
     	Projects: {
@@ -25,7 +24,7 @@
             EcoBot: "a Bot Created for Discor",
     	},
     	website: "http://kdteam.ir",
-=  }
+  }
 ```
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanKD&layout=compact&theme=radical)
 
