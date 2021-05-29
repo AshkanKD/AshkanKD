@@ -42,4 +42,4 @@
 <a href=""><img src="https://discord.c99.nl/widget/theme-3/834906244786814976.png" alt="Discord"</a><br>
 
 ------------------
-<div align="center"><font size="2px;">© Created By <a href="https://github.com/AshkanKD">AshkanKD</a> For <a>KD Team</a></font></div>
+<div align="center"><font size="2px;"><a href="https://github.com/AshkanKD">AshkanKD</a> For <a>KD Team</a></font></div>
