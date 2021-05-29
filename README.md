@@ -23,7 +23,11 @@
     	      DJ V: "a Music Bot Created for Discord",
             EcoBot: "a Bot Created for Discor",
     	},
-    	website: "http://kdteam.ir",
+    	websites: {
+		KD Team: "http://kdteam.ir",
+	}
+
+
   }
 ```
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanKD&layout=compact&theme=radical)
