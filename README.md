@@ -24,7 +24,7 @@
             EcoBot: "a Bot Created for Discor",
     	},
     	websites: {
-		KD Team: "http://kdteam.ir",
+    	      KD Team: "http://kdteam.ir",
 	}
 
 
