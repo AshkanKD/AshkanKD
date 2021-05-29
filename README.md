@@ -37,7 +37,7 @@
 <a href="http://t.me/AshkanKD"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg" alt="telegram" width="90"></a>
 <a href="https://www.instagram.com/kdteam.ir/"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="instagram" width="90">
 </div>
-<a href=""><img src="https://discord.c99.nl/widget/theme-3/834906244786814976.png" width="90"</a><br>
+<a href=""><img src="https://discord.c99.nl/widget/theme-3/834906244786814976.png" alt="Discord"</a><br>
 
 <h2>Want to support my team ?</h2>
 
