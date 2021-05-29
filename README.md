@@ -34,9 +34,10 @@
 
 <div align="center">
 <a href="mailto:Ashkankd84@gmail.com"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" alt="gmail" width="90"></a><br>
-<a href=""><img src="https://discord.c99.nl/widget/theme-3/834906244786814976.png" alt="Discord" width="90"></a><br>
 <a href="http://t.me/AshkanKD"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg" alt="telegram" width="90"></a>
 <a href="https://www.instagram.com/kdteam.ir/"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="instagram" width="90">
+<a href=""><img src="https://discord.c99.nl/widget/theme-3/834906244786814976.png"</a><br>
+
 </div>
 
 <h2>Want to support my team ?</h2>
