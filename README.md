@@ -30,8 +30,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanKD&layout=compact&theme=radical)
 
 
-<h2>Contact Me <img width="50" height="28" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="socialmedia"></h2>
-
+<h2>🔗 Contact Me 
 <div align="center">
 <a href="mailto:Ashkankd84@gmail.com"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" alt="gmail" width="90"></a><br>
 <a href="http://t.me/AshkanKD"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg" alt="telegram" width="90"></a>
