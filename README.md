@@ -41,6 +41,8 @@
 <h2>Want to support my team ?</h2>
 
 <a href="#"><img src="https://img.buymeacoffee.com/button-api/?text=Donate%20&slug=BoyCode&button_colour=b33232&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+<br><br>
+![DM me Discord](https://discord.c99.nl/widget/theme-3/834906244786814976.png)
 
 #
 <div align="center"><font size="2px;">© Created By <a href="https://github.com/AshkanKD">AshkanKD</a> For <a href"http://kdteam.ir">KD Team</a></font></div>
