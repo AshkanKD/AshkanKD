@@ -92,6 +92,8 @@ Invite EcoBot : <a href="https://discord.com/api/oauth2/authorize?client_id=8355
 
 ##  DJ V
 
+Invite DJ V : <a href="https://discord.com/api/oauth2/authorize?client_id=836023757805715477&permissions=234253376&scope=bot%20applications.commands">Link</a>
+
 ---
 
 ---------------------
