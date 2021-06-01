@@ -29,17 +29,6 @@
 ```
 ---------------------
 
-
-# Languages and Tools:
-
-<code><img height="20" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/></code>
-<code><img height="20" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></code>
-<code><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></code>
-
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanKD&layout=compact&theme=radical)
-
-
 <h3>My Skills</h3>
 
 <table>
@@ -79,6 +68,11 @@
     </td>
     </tr>
     </table>
+
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanKD&layout=compact&theme=radical)
+
+
 
 ---------------------
 
