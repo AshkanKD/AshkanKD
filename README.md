@@ -28,7 +28,7 @@
   }
 ```
 ---------------------
-<h2> My Skills 
+# My Skills 
 
 <table>
     </td>
