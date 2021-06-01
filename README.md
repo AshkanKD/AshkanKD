@@ -29,8 +29,7 @@
 ```
 ---------------------
 
-<div align="center">
-<h2> Hi, I'm AshkanKD
+<h2> My Skills
 
 <table>
     </td>
