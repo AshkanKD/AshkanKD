@@ -40,6 +40,13 @@
 <a href="https://www.instagram.com/kdteam.ir/"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="instagram" width="90">
 </div>
 <a href=""><img src="https://discord.c99.nl/widget/theme-3/834906244786814976.png" alt="Discord"</a><br>
-
+<p align="center">
+<a href="https://discord.gg/xCCpfth">
+    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
+  </a>
+<a href="https://www.youtube.com/channel/UCC-5dJ0BPTRSMaoDxntduHg">
+    <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
+  </a>
+</p>
 ------------------
 <div align="center"><font size="2px;"> © Created By <a href="https://github.com/AshkanKD">AshkanKD</a> For <a>KD Team</a></font></div>
