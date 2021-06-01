@@ -13,7 +13,7 @@
  ```js
   const Ashkan = {
   	pronouns: ['Ashkan', 'AshkanKD', 'KD'],
-    	Languages: ['Javascript','python', 'java', 'lua', 'CSS', 'HTML'],
+    	Languages: ['Javascript', 'java', 'lua', 'CSS', 'HTML'],
     	Tools: ['VSCode', 'Node', 'Discord.jS'],
     	hobbies:[
 	    YouTube: true
