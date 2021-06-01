@@ -28,8 +28,7 @@
   }
 ```
 ---------------------
-<div align="center">
-<h2> My Skills
+<h2> My Skills <h2>
 
 <table>
     </td>
@@ -75,8 +74,8 @@
 
 
 ---------------------
-<div align="center">
-<h2> My Projects
+
+<h2> My Projects <h2>
 
 ---
 
