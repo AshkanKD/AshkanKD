@@ -43,4 +43,4 @@
 
 ------------------
 <div align="center"><font size="2px;"> © Created By <a href="https://github.com/AshkanKD">AshkanKD</a> For <a>KD Team</a></font></div>
-© Created By **[AshkanKD](https://github.com/AshkanKD)** For **[KD Team](https://github.com/kdteam-ir)**
+© Created By [AshkanKD](https://github.com/AshkanKD)
