@@ -7,11 +7,9 @@
 <em>Developer of <a href="https://github.com/kdteam-ir">KD</a></em></br>
 
 ---------------------
-
 </br>
 </br>
 </br>  
-
  ```js
   const Ashkan = {
   	pronouns: ['Ashkan', 'AshkanKD', 'KD'],
