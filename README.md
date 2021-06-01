@@ -28,7 +28,7 @@
   }
 ```
 ---------------------
-
+<div align="center">
 <h2> My Skills
 
 <table>
@@ -75,9 +75,8 @@
 
 
 ---------------------
-
-
-### My Projects
+<div align="center">
+<h2> My Projects
 
 ---
 
