@@ -102,6 +102,7 @@ Bot made in discord.js to encourage your members to be active in your Discord se
 ##  Eru
 🦊🤖🌲✨ Absolutely 𝘢𝘥𝘰𝘳𝘢𝘣𝘭𝘦 Discord bot made to help you enhance your server with ease.
 
+---------------------
 
 
 <h2>🔗 Contact Me
