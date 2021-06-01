@@ -17,8 +17,8 @@
 	    YouTube: true
 	],  
     	Projects: {
-    	      DJ V: "a Music Bot Created for Discord",
             EcoBot: "a Bot Created for Discor",
+    	      DJ V: "a Music Bot Created for Discord"
     	},
     	websites: {
     	      KD Team: "http://kdteam.ir",
@@ -79,16 +79,16 @@
 
 ---
 
-<img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="Legacy.js" src="https://avatars.githubusercontent.com/u/84481022?s=200&v=4">  
+<img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="EcoBot" src="https://cdn.discordapp.com/attachments/849213611531567125/849213669216616468/mod-0_1.png">  
 
-##  Legacy.js
+##  EcoBot
 Tutorials on popular npmjs packages such as: express, discord.js, or eris
 
 ---
 
-<img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="Kikr" src="https://imgur.com/LyjfBHy.png?maxwidth=760&fidelity=grand">  
+<img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="DJ V" src="https://cdn.discordapp.com/attachments/849213521735974912/849213597481041920/RIng_bot.png">  
 
-##  Kikr
+##  DJ V
 Bot made in discord.js to encourage your members to be active in your Discord server!
 
 ---
