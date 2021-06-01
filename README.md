@@ -48,5 +48,7 @@
     <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
   </a>
 </p>
-------------------
+
+---------------------
+
 <div align="center"><font size="2px;"> © Created By <a href="https://github.com/AshkanKD">AshkanKD</a> For <a>KD Team</a></font></div>
