@@ -6,11 +6,12 @@
 <em>Founder of <a href="https://kdteam.ir/">KD Team</a></em></br>
 <em>Developer of <a href="https://github.com/kdteam-ir">KD</a></em></br>
 
+---------------------
 
 </br>
 </br>
 </br>  
----------------------
+
  ```js
   const Ashkan = {
   	pronouns: ['Ashkan', 'AshkanKD', 'KD'],
