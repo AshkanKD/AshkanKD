@@ -79,6 +79,25 @@
 
 ---------------------
 
+<h2>🔗 Contact Me
+<div align="center">
+<a href="mailto:Ashkankd84@gmail.com"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" alt="gmail" width="90"></a><br>
+<a href="http://t.me/AshkanKD"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg" alt="telegram" width="90"></a>
+<a href="https://www.instagram.com/kdteam.ir/"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="instagram" width="90">
+</div>
+<a href=""><img src="https://discord.c99.nl/widget/theme-3/834906244786814976.png" alt="Discord"</a><br>
+<p align="center">
+<a href="https://discord.gg/uUqneWgUnc">
+    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
+  </a>
+<a href="https://www.youtube.com/channel/">
+    <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
+  </a>
+</p>
+
+---------------------
+
+
 ### My Projects
 
 ---
@@ -105,21 +124,6 @@ Bot made in discord.js to encourage your members to be active in your Discord se
 ---------------------
 
 
-<h2>🔗 Contact Me
-<div align="center">
-<a href="mailto:Ashkankd84@gmail.com"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" alt="gmail" width="90"></a><br>
-<a href="http://t.me/AshkanKD"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg" alt="telegram" width="90"></a>
-<a href="https://www.instagram.com/kdteam.ir/"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="instagram" width="90">
-</div>
-<a href=""><img src="https://discord.c99.nl/widget/theme-3/834906244786814976.png" alt="Discord"</a><br>
-<p align="center">
-<a href="https://discord.gg/uUqneWgUnc">
-    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
-  </a>
-<a href="https://www.youtube.com/channel/">
-    <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
-  </a>
-</p>
 
 ---------------------
 
