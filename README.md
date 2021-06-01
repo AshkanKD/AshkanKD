@@ -114,9 +114,9 @@ Invite DJ V : <a href="https://discord.com/api/oauth2/authorize?client_id=836023
 <a href="https://www.youtube.com/channel/">
     <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
   </a>
-</p>
 <a href="https://instagram.com/kdteam.ir" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href="support@kdteam.ir" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+</p>
 
 ---------------------
 
