@@ -105,9 +105,6 @@ Invite DJ V : <a href="https://discord.com/api/oauth2/authorize?client_id=836023
 ---------------------
 
 <div align="center">
-<a href="https://instagram.com/kdteam.ir" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href="support@kdteam.ir" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
-
 </div>
 <a href=""><img src="https://discord.c99.nl/widget/theme-3/834906244786814976.png" alt="Discord"</a><br>
 <p align="center">
@@ -118,7 +115,8 @@ Invite DJ V : <a href="https://discord.com/api/oauth2/authorize?client_id=836023
     <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
   </a>
 </p>
-
+<a href="https://instagram.com/kdteam.ir" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="support@kdteam.ir" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 
 ---------------------
 
