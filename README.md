@@ -82,14 +82,14 @@
 <img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="EcoBot" src="https://cdn.discordapp.com/attachments/849213611531567125/849213669216616468/mod-0_1.png">  
 
 ##  EcoBot
-Tutorials on popular npmjs packages such as: express, discord.js, or eris
+Bot made in discord.js to encourage your members to be active in your Discord server!
 
+Invite Bot : <a href="https://discord.com/api/oauth2/authorize?client_id=835570872806014996&permissions=401768256&scope=bot%20applications.commands">Link</a>
 ---
 
 <img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="DJ V" src="https://cdn.discordapp.com/attachments/849213521735974912/849213597481041920/RIng_bot.png">  
 
 ##  DJ V
-Bot made in discord.js to encourage your members to be active in your Discord server!
 
 ---
 
