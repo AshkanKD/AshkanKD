@@ -32,11 +32,6 @@
 
 # Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
-<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="py" width="26px" src="https://i.imgur.com/4pIzF9V.png" />
-
 <code><img height="20" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/></code>
 <code><img height="20" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></code>
 <code><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></code>
@@ -51,11 +46,11 @@
     </td>
             <td align="center" width="128">
         <img src="https://i.imgur.com/LwSdAlE.png" width="48" height="48"/>
-      <br>Visual Studio Code
+      <br>VSCode
     </td>
                 <td align="center" width="128">
-        <img src="https://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png" width="70" height="48"/>
-      <br>Markdown
+        <img src="https://i.imgur.com/4pIzF9V.png" width="70" height="48"/>
+      <br>py
   <tr>
     <td align="center" width="128">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48"/>
