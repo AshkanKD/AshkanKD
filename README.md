@@ -120,7 +120,6 @@ Bot made in discord.js to encourage your members to be active in your Discord se
   </a>
 </p>
 
----------------------
 
 ---------------------
 
