@@ -51,6 +51,14 @@
                 <td align="center" width="128">
         <img src="https://i.imgur.com/4pIzF9V.png" width="70" height="48"/>
       <br>py
+</td>
+            <td align="center" width="128">
+        <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" width="48" height="48"/>
+      <br>node.js
+    </td>
+                <td align="center" width="128">
+        <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" width="70" height="48"/>
+      <br>npm
   <tr>
     <td align="center" width="128">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48"/>
