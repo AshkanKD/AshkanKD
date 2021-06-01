@@ -46,6 +46,62 @@
 
 ---------------------
 
+<h3>My Skills</h3>
+
+<table>
+  <tr>
+    <td align="center" width="128">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48"/>
+      <br>Javascript
+    </td>
+        <td align="center" width="128">
+        <img src="https://discord.js.org/static/logo-square.png" width="48" height="48"/>
+      <br>Discord.js
+    </td>
+            <td align="center" width="128">
+        <img src="https://dbd.js.org/images/DBDJSLOGOBLUEblackbackground.gif" width="48" height="48"/>
+      <br>DBD.js
+    </td>
+                <td align="center" width="128">
+        <img src="https://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png" width="70" height="48"/>
+      <br>Markdown
+    </td>
+        </td>
+                <td align="center" width="128">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="48" height="48"/>
+      <br>HTML5
+    </td>
+                    <td align="center" width="128">
+        <img src="https://www.seekpng.com/png/full/141-1415372_css3-icon-png.png" width="48" height="48"/>
+      <br>CSS3
+    </td>
+    </tr>
+    </table>
+    
+### My Projects
+
+---
+
+<img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="Legacy.js" src="https://avatars.githubusercontent.com/u/84481022?s=200&v=4">  
+
+##  Legacy.js
+Tutorials on popular npmjs packages such as: express, discord.js, or eris
+
+---
+
+<img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="Kikr" src="https://imgur.com/LyjfBHy.png?maxwidth=760&fidelity=grand">  
+
+##  Kikr
+Bot made in discord.js to encourage your members to be active in your Discord server!
+
+---
+
+<img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="Eru" src="https://imgur.com/FFkukVv.png">  
+
+##  Eru
+🦊🤖🌲✨ Absolutely 𝘢𝘥𝘰𝘳𝘢𝘣𝘭𝘦 Discord bot made to help you enhance your server with ease.
+
+
 
 <h2>🔗 Contact Me
 <div align="center">
