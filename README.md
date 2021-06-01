@@ -101,7 +101,7 @@ Bot made in discord.js to encourage your members to be active in your Discord se
 ---------------------
 
 
-<h2>🔗 Contact Me
+# 🔗 Contact Me
 
 ---------------------
 
