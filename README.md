@@ -57,7 +57,7 @@
         <img src="https://discord.js.org/static/logo-square.png" width="48" height="48"/>
       <br>Discord.js
     </td>
-            
+        </td>
                 <td align="center" width="128">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="48" height="48"/>
       <br>HTML5
