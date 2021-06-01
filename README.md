@@ -93,11 +93,6 @@ Bot made in discord.js to encourage your members to be active in your Discord se
 
 ---
 
-<img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="Eru" src="https://imgur.com/FFkukVv.png">  
-
-##  Eru
-🦊🤖🌲✨ Absolutely 𝘢𝘥𝘰𝘳𝘢𝘣𝘭𝘦 Discord bot made to help you enhance your server with ease.
-
 ---------------------
 
 
