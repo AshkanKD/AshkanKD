@@ -44,7 +44,6 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanKD&layout=compact&theme=radical)
 
----------------------
 
 <h3>My Skills</h3>
 
@@ -77,7 +76,9 @@
     </td>
     </tr>
     </table>
-    
+
+---------------------
+
 ### My Projects
 
 ---
