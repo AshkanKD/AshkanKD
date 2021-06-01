@@ -83,6 +83,7 @@
 
 ##  EcoBot
 Bot made in discord.js to encourage your members to be active in your Discord server!
+
 Invite EcoBot : <a href="https://discord.com/api/oauth2/authorize?client_id=835570872806014996&permissions=401768256&scope=bot%20applications.commands">Link</a>
 
 ---
