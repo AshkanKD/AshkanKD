@@ -53,11 +53,11 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48"/>
       <br>Javascript
     </td>
-          <td align="center" width="128">
-        <img src="https://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png" width="70" height="48"/>
-      <br>Markdown
+        <td align="center" width="128">
+        <img src="https://discord.js.org/static/logo-square.png" width="48" height="48"/>
+      <br>Discord.js
     </td>
-        </td>
+            
                 <td align="center" width="128">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="48" height="48"/>
       <br>HTML5
