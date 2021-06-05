@@ -105,7 +105,7 @@ Invite DJ V : <a href="https://discord.com/api/oauth2/authorize?client_id=836023
 ---------------------
 
 
-# 🔗 Contact Me
+# Contact Me
 
 ---------------------
 
