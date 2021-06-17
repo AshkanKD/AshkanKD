@@ -28,10 +28,10 @@
 
   }
 ```
+<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="420" height="270" />
 
 ---------------------
 # My Skills 
-<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="420" height="270" />
 </hr>
 
 <table>
