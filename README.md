@@ -75,8 +75,8 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanKD&layout=compact&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanKD&layout=compact)]
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AshkanKD)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanKD&layout=compact)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AshkanKD)
 <a href="https://github.com/AshkanKD">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AshkanKD&show_icons=true&theme=cobalt&include_all_commits=true" alt="AshkanKD's github stats" />
 </a>
