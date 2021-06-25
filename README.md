@@ -77,6 +77,13 @@
 
 
 
+<a href="https://github.com/AshkanKD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AshkanKD&show_icons=true&theme=cobalt&include_all_commits=true" alt="AshkanKD's github stats" />
+</a>
+
+
+<img align="center" src="https://gpvc.arturio.dev/AshkanKD" alt="AshkanKD's github views" />
+
 ---------------------
 
 # My Projects
