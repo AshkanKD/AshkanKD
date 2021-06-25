@@ -116,8 +116,8 @@ Invite DJ V : <a href="https://discord.com/api/oauth2/authorize?client_id=836023
 <a href="https://instagram.com/kdteam.ir" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href="support@kdteam.ir" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 </p>
+<img align="center" src="https://gpvc.arturio.dev/AshkanKD" alt="AshkanKD's github views" />
 
 ---------------------
 
 <div align="center"><font size="2px;"> © Created By <a href="https://github.com/AshkanKD">AshkanKD</a> For <a>KD Team</a></font></div>
-<img align="center" src="https://gpvc.arturio.dev/AshkanKD" alt="AshkanKD's github views" />
