@@ -75,8 +75,6 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanKD&layout=compact&theme=radical)
 
-<img align="center" src="https://gpvc.arturio.dev/AshkanKD" alt="AshkanKD's github views" />
-
 ---------------------
 
 # My Projects
@@ -122,3 +120,4 @@ Invite DJ V : <a href="https://discord.com/api/oauth2/authorize?client_id=836023
 ---------------------
 
 <div align="center"><font size="2px;"> © Created By <a href="https://github.com/AshkanKD">AshkanKD</a> For <a>KD Team</a></font></div>
+<img align="center" src="https://gpvc.arturio.dev/AshkanKD" alt="AshkanKD's github views" />
