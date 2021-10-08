@@ -12,11 +12,12 @@
 
  ```js
   const Ashkan = {
-  	pronouns: ['Ashkan', 'AshkanKD', 'KD'],
-    	Languages: ['Javascript', 'java', 'lua', 'CSS', 'HTML'],
-    	Tools: ['VSCode', 'Node', 'Discord.jS'],
+  	pronouns: ['AshkanKD', 'Ashkan', 'KD', 'Ashkan Parsa'],
+    	Languages: ['Javascript', 'python', 'lua', 'CSS', 'HTML'],
+<!--     	Tools: ['VSCode', 'Node', 'Discord.jS'], -->
     	hobbies:[
 	    YouTube: true
+	    twitch.tv: true
 	],  
     	Projects: {
             EcoBot: "a Bot Created for Discor",
