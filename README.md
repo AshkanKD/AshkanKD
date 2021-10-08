@@ -14,10 +14,10 @@
   const Ashkan = {
   	pronouns: ['AshkanKD', 'Ashkan', 'KD', 'Ashkan Parsa'],
     	Languages: ['Javascript', 'python', 'lua', 'CSS', 'HTML'],
-<!--     	Tools: ['VSCode', 'Node', 'Discord.jS'], -->
+    	Tools: ['VSCode', 'SV', 'Node', 'Discord.jS'],
     	hobbies:[
 	    YouTube: true
-	    twitch.tv: true
+	    twitch: true
 	],  
     	Projects: {
             EcoBot: "a Bot Created for Discor",
