@@ -14,7 +14,7 @@
   const Ashkan = {
   	pronouns: ['AshkanKD', 'Ashkan', 'KD', 'Ashkan Parsa'],
     	Languages: ['Javascript', 'python', 'lua', 'CSS', 'HTML'],
-    	Tools: ['VSCode', 'SV', 'Node', 'Discord.jS'],
+    	Tools: ['VSCode', 'SV', 'Node', 'Discord.jS', 'Python 3.10'],
     	hobbies:[
 	    YouTube: true
 	    twitch: true
