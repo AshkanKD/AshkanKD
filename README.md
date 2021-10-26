@@ -25,7 +25,7 @@
     	},
     	websites: {
     	      KD Community | KD Team: "http://kdteam.ir",
- 	      My WebSite: "https://AshkanKD.github.io/",
+ 	      My WebSite: "https://AshkanKD.github.io",
 	}
 
 
