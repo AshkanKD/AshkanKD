@@ -39,8 +39,8 @@
 <table>
     </td>
             <td align="center" width="128">
-        <img src="https://i.imgur.com/LwSdAlE.png" width="48" height="48"/>
-      <br>VSCode
+        <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" width="48" height="48"/>
+      <br>JavaScript
     </td>
                 <td align="center" width="128">
         <img src="https://i.imgur.com/4pIzF9V.png" width="70" height="48"/>
@@ -55,8 +55,8 @@
       <br>npm
   <tr>
     <td align="center" width="128">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48"/>
-      <br>Javascript
+        <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" width="48" height="48"/>
+      <br>Visual Studio Code
     </td>
         <td align="center" width="128">
         <img src="https://discord.js.org/static/logo-square.png" width="48" height="48"/>
