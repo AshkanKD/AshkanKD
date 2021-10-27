@@ -10,7 +10,7 @@
 <img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="420" height="270" />
 
 
- ```js
+ ```html
   const Ashkan = {
   	pronouns: ['AshkanKD', 'Ashkan', 'KD', 'Ashkan Parsa'],
     	Languages: ['Javascript', 'python', 'lua', 'CSS', 'HTML'],
