@@ -113,6 +113,44 @@
 </details>
 
 <br>
+
+---------------------
+
+<br><br>
+
+<h1 align="center">👨‍💻 Programming Language</h1>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/typesciprt%20-%23323330.svg?style=for-the-badge&logo=typescript" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript" alt="JavaScriprt"/>
+    <img src="https://img.shields.io/badge/node.js%20-%23323330.svg?&style=for-the-badge&logo=node.js" alt="Node.js" />
+    <img src="https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react" alt="Node.js" />
+</div>
+
+<br><br>
+
+<h1 align="center">🛠️ Tool And Technology</h1>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Express.js%20-%23323330.svg?style=for-the-badge&logo=express&logoColor=black" alt="Express" />
+    <img src="https://img.shields.io/badge/git%20-%23323330.svg?style=for-the-badge&logo=git" alt="Git" />
+     <img src="https://img.shields.io/badge/markdown%20-%23323330.svg?style=for-the-badge&logo=markdown" alt="Markdown" />
+    <img src="https://img.shields.io/badge/Electron.js%20-%23323330.svg?style=for-the-badge&logo=electron" alt="Electron" />
+    <img src="https://img.shields.io/badge/github%20-%23323330.svg?&style=for-the-badge&logo=github" alt="Github"/>
+    <img src="https://img.shields.io/badge/MongoDB%20-%23323330.svg?&style=for-the-badge&logo=mongodb" alt="Github"/>
+</div>
+
+<br><br>
+
+<h1 align="center">🖥 Operating System</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ubuntu%20-%23323330.svg?style=for-the-badge&logo=ubuntu&logoColor=orange" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Windows%20-%23323330.svg?style=for-the-badge&logo=windows&logoColor=blue" alt="Windows" />
+</p>
+
+<br><br>
+
 ---------------------
 
 # My Projects
