@@ -72,7 +72,7 @@
 <h1 align="center">👨‍💻 Programming Language 👨‍💻</h1>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/typesciprt%20-%23323330.svg?style=social&logo=typescript" alt="TypeScript" /> | 
+     | <img src="https://img.shields.io/badge/typesciprt%20-%23323330.svg?style=social&logo=typescript" alt="TypeScript" /> | 
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?style=social&logo=javascript" alt="JavaScriprt"/> | 
     <img src="https://img.shields.io/badge/node.js%20-%23323330.svg?style=social&logo=node.js" alt="Node.js" /> | 
     <img src="https://img.shields.io/badge/react%20-%23323330.svg?style=social&logo=react" alt="Node.js" /> | 
@@ -86,7 +86,7 @@
 <h1 align="center">🛠️ Tool And Technology 🛠️</h1>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Express.js%20-%23323330.svg?style=social&logo=express&logoColor=black" alt="Express" /> | 
+     | <img src="https://img.shields.io/badge/Express.js%20-%23323330.svg?style=social&logo=express&logoColor=black" alt="Express" /> | 
     <img src="https://img.shields.io/badge/git%20-%23323330.svg?style=social&logo=git" alt="Git" /> | 
     <img src="https://img.shields.io/badge/markdown%20-%23323330.svg?style=social&logo=markdown" alt="Markdown" /> | 
     <img src="https://img.shields.io/badge/Electron.js%20-%23323330.svg?style=social&logo=electron" alt="Electron" /> | 
@@ -100,7 +100,7 @@
 <h1 align="center">🖥 Operating System 🖥</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Kali_Linux-05122A?style=social&logo=KaliLinux" alt="KaliLinux" /> | 
+   | <img src="https://img.shields.io/badge/-Kali_Linux-05122A?style=social&logo=KaliLinux" alt="KaliLinux" /> | 
   <img src="https://img.shields.io/badge/Ubuntu%20-%23323330.svg?style=social&logo=ubuntu&logoColor=orange" alt="Ubuntu" /> | 
   <img src="https://img.shields.io/badge/Windows%20-%23323330.svg?style=social&logo=windows&logoColor=blue" alt="Windows" /> | 
 </p>
@@ -137,9 +137,9 @@ Invite DJ V : <a href="https://discord.com/api/oauth2/authorize?client_id=836023
 
 <div align="center">
 </div>
-<a href=""><img src="https://discord.c99.nl/widget/theme-3/834906244786814976.png" alt="Discord"</a><br>
-<a href=""><img src="https://img.shields.io/badge/-https://discord.gg/wy2nPKUsN3-05122A?style=social&logo=Discord" alt="Discord"</a><br>
-<a href=""><img src="https://img.shields.io/badge/-AshkanKD-05122A?style=social&logo=youtube" alt="youtube"</a><br>
+ | <img src="https://discord.c99.nl/widget/theme-3/834906244786814976.png" alt="Discord"</a><br> | 
+<img src="https://img.shields.io/badge/-https://discord.gg/wy2nPKUsN3-05122A?style=social&logo=Discord" alt="Discord"</a><br> | 
+<img src="https://img.shields.io/badge/-AshkanKD-05122A?style=social&logo=youtube" alt="youtube"</a><br> | 
 
 ---------------------
 
