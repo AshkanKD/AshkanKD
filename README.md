@@ -119,12 +119,8 @@
     <img src="https://img.shields.io/badge/node.js%20-%23323330.svg?&style=for-the-badge&logo=node.js" alt="Node.js" />
     <img src="https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react" alt="Node.js" />
 <!--     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript" /> -->
-    <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML"/>
-    <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS" />
-
-	    <img src="https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=appveyor" alt="HTML"/>
-    <img src="https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=appveyor" alt="CSS" />
-
+    <img src="https://img.shields.io/badge/-HTML-05122A?style=plastic&logo=HTML5" alt="HTML"/>
+    <img src="https://img.shields.io/badge/-CSS-05122A?style=plastic&logo=CSS3&logoColor=1572B6" alt="CSS" />
 </div>
 
 <br><br>
