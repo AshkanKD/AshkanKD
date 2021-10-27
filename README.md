@@ -82,6 +82,12 @@
 
 <br>
 
+
+<div align="center">
+  <img align="center" src="https://img.shields.io/twitch/status/AshkanKD?style=social"  alt=""/>
+</div>
+
+<br>
 </details>
 
 <br>
