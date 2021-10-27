@@ -186,7 +186,7 @@ Invite DJ V : <a href="https://discord.com/api/oauth2/authorize?client_id=836023
     <img src="https://img.shields.io/badge/-https://discord.gg/wy2nPKUsN3-05122A?style=social&logo=Discord" alt="Discord" width="80"/>
   </a>
 <a href="https://www.youtube.com/channel/">
-    <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
+    <img src="https://img.shields.io/badge/-AshkanKD-05122A?style=social&logo=youtube" alt="Discord" width="80"/>
   </a>
 <a href="https://instagram.com/AshkanKDC" target="blank"><img align="center" src="https://img.shields.io/badge/-Ashkan_KDC-05122A?style=social&logo=Instagram"/></a>
 <a href="support@kdteam.ir" target="blank"><img align="center" src="https://img.shields.io/badge/-Ashkan_KDC-05122A?style=social&logo=Instagram"/></a>
