@@ -115,10 +115,9 @@
 <br>
 
 ---------------------
-
 <br><br>
 
-<h1 align="center">👨‍💻 Programming Language</h1>
+<h1 align="center">👨‍💻 Programming Language 👨‍💻</h1>
 
 <div align="center">
     <img src="https://img.shields.io/badge/typesciprt%20-%23323330.svg?style=for-the-badge&logo=typescript" alt="TypeScript" />
@@ -129,7 +128,7 @@
 
 <br><br>
 
-<h1 align="center">🛠️ Tool And Technology</h1>
+<h1 align="center">🛠️ Tool And Technology 🛠️</h1>
 
 <div align="center">
     <img src="https://img.shields.io/badge/Express.js%20-%23323330.svg?style=for-the-badge&logo=express&logoColor=black" alt="Express" />
@@ -142,7 +141,7 @@
 
 <br><br>
 
-<h1 align="center">🖥 Operating System</h1>
+<h1 align="center">🖥 Operating System 🖥</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ubuntu%20-%23323330.svg?style=for-the-badge&logo=ubuntu&logoColor=orange" alt="Ubuntu" />
@@ -153,7 +152,7 @@
 
 ---------------------
 
-# My Projects
+# 👨‍💻 My Projects
 
 ---
 
