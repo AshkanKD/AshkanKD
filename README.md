@@ -122,8 +122,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript" />
     <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML"/><img
  src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS" />
-    <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git"/><img
- src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub" />
+    
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code"/>
 <!-- ![JavaScript]()&nbsp;
 ![HTML]()&nbsp;
@@ -146,7 +145,8 @@
     <img src="https://img.shields.io/badge/github%20-%23323330.svg?&style=for-the-badge&logo=github" alt="Github"/>
     <img src="https://img.shields.io/badge/MongoDB%20-%23323330.svg?&style=for-the-badge&logo=mongodb" alt="Github"/>
 </div>
-
+<!-- <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git"/><img
+ src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub" /> -->
 <br><br>
 
 <h1 align="center">🖥 Operating System 🖥</h1>
