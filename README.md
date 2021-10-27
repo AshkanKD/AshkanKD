@@ -128,15 +128,13 @@
 <h1 align="center">🛠️ Tool And Technology 🛠️</h1>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Express.js%20-%23323330.svg?style=for-the-badge&logo=express&logoColor=black" alt="Express" />
-    <img src="https://img.shields.io/badge/git%20-%23323330.svg?style=for-the-badge&logo=git" alt="Git" />
-    <img src="https://img.shields.io/badge/markdown%20-%23323330.svg?style=for-the-badge&logo=markdown" alt="Markdown" />
-    <img src="https://img.shields.io/badge/Electron.js%20-%23323330.svg?style=for-the-badge&logo=electron" alt="Electron" />
-    <img src="https://img.shields.io/badge/github%20-%23323330.svg?&style=for-the-badge&logo=github" alt="Github"/>
-    <img src="https://img.shields.io/badge/MongoDB%20-%23323330.svg?&style=for-the-badge&logo=mongodb" alt="Github"/>
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code"/>
-<!--     <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git"/>
-    <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub" /> -->
+    <img src="https://img.shields.io/badge/Express.js%20-%23323330.svg?style=social&logo=express&logoColor=black" alt="Express" />
+    <img src="https://img.shields.io/badge/git%20-%23323330.svg?style=social&logo=git" alt="Git" />
+    <img src="https://img.shields.io/badge/markdown%20-%23323330.svg?style=social&logo=markdown" alt="Markdown" />
+    <img src="https://img.shields.io/badge/Electron.js%20-%23323330.svg?style=social&logo=electron" alt="Electron" />
+    <img src="https://img.shields.io/badge/github%20-%23323330.svg?style=social&logo==github" alt="Github"/>
+    <img src="https://img.shields.io/badge/MongoDB%20-%23323330.svg?style=social&logo=mongodb" alt="Github"/>
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=social&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code"/>
 </div>
 
 <br><br>
@@ -144,8 +142,8 @@
 <h1 align="center">🖥 Operating System 🖥</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ubuntu%20-%23323330.svg?style=for-the-badge&logo=ubuntu&logoColor=orange" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Windows%20-%23323330.svg?style=for-the-badge&logo=windows&logoColor=blue" alt="Windows" />
+  <img src="https://img.shields.io/badge/Ubuntu%20-%23323330.svg?style=social&logo=ubuntu&logoColor=orange" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Windows%20-%23323330.svg?style=social&logo=windows&logoColor=blue" alt="Windows" />
 </p>
 
 <br><br>
