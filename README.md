@@ -182,21 +182,7 @@ Invite DJ V : <a href="https://discord.com/api/oauth2/authorize?client_id=836023
 </div>
 <a href=""><img src="https://discord.c99.nl/widget/theme-3/834906244786814976.png" alt="Discord"</a><br>
 <a href=""><img src="https://img.shields.io/badge/-https://discord.gg/wy2nPKUsN3-05122A?style=social&logo=Discord" alt="Discord"</a><br>
-<a href=""><img src="https://img.shields.io/badge/-AshkanKD-05122A?style=social&logo=youtube" alt="Discord"</a><br>
-<a href=""><img src="https://img.shields.io/badge/-Ashkan_KDC-05122A?style=social&logo=Instagra" alt="Discord"</a><br>
-
-
-<p align="center">
-<a href="https://discord.gg/wy2nPKUsN3">
-    <img src="" alt="Discord" width="80"/>
-  </a>
-<a href="https://www.youtube.com/channel/">
-    <img src="" alt="Discord" width="80"/>
-  </a>
-<a href="https://instagram.com/AshkanKDC" target="blank"><img align="center" src="m"/></a>
-<a href="support@kdteam.ir" target="blank"><img align="center" src="https://img.shields.io/badge/-Ashkan_KDC-05122A?style=social&logo=Instagram"/></a>
-</p>
-<img align="center" src="https://gpvc.arturio.dev/AshkanKD" alt="AshkanKD's github views" />
+<a href=""><img src="https://img.shields.io/badge/-AshkanKD-05122A?style=social&logo=youtube" alt="youtube"</a><br>
 
 ---------------------
 
