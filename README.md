@@ -84,7 +84,35 @@
 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanKD&layout=compact&theme=radical)
+<details align="center">
+  <summary align="center"><b align="center"><samp align="center">📈 My GitHub Stats</samp></b></summary>
+<br>
 
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-parsa&theme=dark&hide_border=true&stroke=f53b3b"  alt=""/>
+</div>
+
+<br>
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=im-parsa&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&stroke=f53b3b"  alt=""/>
+</div>
+
+<br>
+
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-parsa&theme=dark&hide_border=true&stroke=f53b3b"  alt=""/>
+</div>
+
+  <br>
+
+  <div align="center">
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=im-parsa&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true"  alt=""/>     </a>
+  </div>
+
+</details>
+
+<br>
 ---------------------
 
 # My Projects
