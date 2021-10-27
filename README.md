@@ -71,13 +71,13 @@
 <br>
 
 <div align="center">
-  <img align="center" src="https://img.shields.io/github/followers/AshkanKD?label=GitHub%20followers&style=social"  alt=""/>
+  <img align="center" src="https://img.shields.io/github/followers/AshkanKD?style=social"  alt=""/>
 </div>
 
 <br>
 
 <div align="center">
-  <img align="center" src="![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4mAH0LtIRAOnjWkRnZHTSg?label=YouTube%20Subscribers&style=social)"  alt=""/>
+  <img align="center" src="https://img.shields.io/youtube/channel/subscribers/UC4mAH0LtIRAOnjWkRnZHTSg?style=social"  alt=""/>
 </div>
 
 <br>
