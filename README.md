@@ -61,12 +61,6 @@
   <div align="center">
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=AshkanKD&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true"  alt=""/>     </a>
   </div>
-  
-  <br>
-
-  <div align="center">
-    <img align="center" src="https://img.shields.io/github/followers/AshkanKD?style=social"  alt=""/>     </a>
-  </div>
 
 </details>
 
