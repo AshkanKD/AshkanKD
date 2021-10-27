@@ -90,7 +90,7 @@
     <img src="https://img.shields.io/badge/git%20-%23323330.svg?style=social&logo=git" alt="Git" />
     <img src="https://img.shields.io/badge/markdown%20-%23323330.svg?style=social&logo=markdown" alt="Markdown" />
     <img src="https://img.shields.io/badge/Electron.js%20-%23323330.svg?style=social&logo=electron" alt="Electron" />
-    <img src="https://img.shields.io/badge/github%20-%23323330.svg?style=social&logo==GitHub" alt="Github"/>
+    <img src="https://img.shields.io/badge/-GitHub-05122A?style=social&logo=GitHub" alt="Github"/>
     <img src="https://img.shields.io/badge/MongoDB%20-%23323330.svg?style=social&logo=mongodb" alt="mongodb"/>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=social&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code"/>
 </div>
