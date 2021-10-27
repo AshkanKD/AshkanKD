@@ -36,48 +36,6 @@
 # Info
 </hr>
 
-
-<!-- 
-<table>
-    </td>
-            <td align="center" width="128">
-        <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" width="48" height="48"/>
-      <br>JavaScript
-    </td>
-                <td align="center" width="128">
-        <img src="https://i.imgur.com/4pIzF9V.png" width="70" height="48"/>
-      <br>py
-</td>
-           <td align="center" width="128">
-        <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" width="48" height="48"/>
-      <br>node.js
-    </td>
-                <td align="center" width="128">
-        <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" width="70" height="48"/>
-      <br>npm
-  <tr>
-    <td align="center" width="128">
-        <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" width="48" height="48"/>
-      <br>Visual Studio Code
-    </td>
-        <td align="center" width="128">
-        <img src="https://discord.js.org/static/logo-square.png" width="48" height="48"/>
-      <br>Discord.js
-    </td>
-        </td>
-                <td align="center" width="128">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="48" height="48"/>
-      <br>HTML5
-    </td>
-                    <td align="center" width="128">
-        <img src="https://www.seekpng.com/png/full/141-1415372_css3-icon-png.png" width="48" height="48"/>
-      <br>CSS3
-    </td>
-    </tr>
-    </table> -->
-
-
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanKD&layout=compact&theme=radical) -->
 <details align="center">
   <summary align="center"><b align="center"><samp align="center">📈 My GitHub Stats</samp></b></summary>
 <br>
@@ -132,8 +90,8 @@
     <img src="https://img.shields.io/badge/git%20-%23323330.svg?style=social&logo=git" alt="Git" />
     <img src="https://img.shields.io/badge/markdown%20-%23323330.svg?style=social&logo=markdown" alt="Markdown" />
     <img src="https://img.shields.io/badge/Electron.js%20-%23323330.svg?style=social&logo=electron" alt="Electron" />
-    <img src="https://img.shields.io/badge/github%20-%23323330.svg?style=social&logo==github" alt="Github"/>
-    <img src="https://img.shields.io/badge/MongoDB%20-%23323330.svg?style=social&logo=mongodb" alt="Github"/>
+    <img src="https://img.shields.io/badge/github%20-%23323330.svg?style=social&logo==GitHub" alt="Github"/>
+    <img src="https://img.shields.io/badge/MongoDB%20-%23323330.svg?style=social&logo=mongodb" alt="mongodb"/>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=social&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code"/>
 </div>
 
@@ -142,6 +100,7 @@
 <h1 align="center">🖥 Operating System 🖥</h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-Kali_Linux-05122A?style=social&logo=KaliLinux" alt="KaliLinux" />
   <img src="https://img.shields.io/badge/Ubuntu%20-%23323330.svg?style=social&logo=ubuntu&logoColor=orange" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Windows%20-%23323330.svg?style=social&logo=windows&logoColor=blue" alt="Windows" />
 </p>
