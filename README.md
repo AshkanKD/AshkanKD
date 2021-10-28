@@ -163,11 +163,11 @@ Invite DJ V : <a href="https://discord.com/api/oauth2/authorize?client_id=836023
 
 <div align="center">
 </div>
+<a href="https://coffeebede.ir/buycoffee/ashkankd"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 <img src="https://discord.c99.nl/widget/theme-3/834906244786814976.png" alt="Discord"</a><br>
 <img src="https://img.shields.io/badge/-https://discord.gg/wy2nPKUsN3-05122A?style=social&logo=Discord" alt="Discord"</a><br>
 <img src="https://img.shields.io/badge/-AshkanKD-05122A?style=social&logo=youtube" alt="youtube"</a><br>
 
-<a href="https://coffeebede.ir/buycoffee/ashkankd"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 
 ---------------------
 
