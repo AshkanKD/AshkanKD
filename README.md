@@ -6,6 +6,8 @@
 <em>Founder of <a href="https://kdteam.ir/">KD Community | KD Team</a></em></br>
 <em>Developer of <a href="https://github.com/kdteam-ir">KD</a></em></br>
 
+<a href="https://coffeebede.ir/buycoffee/ashkankd"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+
 ---------------------
 <img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="420" height="270" />
 
@@ -163,7 +165,6 @@ Invite DJ V : <a href="https://discord.com/api/oauth2/authorize?client_id=836023
 
 <div align="center">
 </div>
-<a href="https://coffeebede.ir/buycoffee/ashkankd"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 <img src="https://discord.c99.nl/widget/theme-3/834906244786814976.png" alt="Discord"</a><br>
 <img src="https://img.shields.io/badge/-https://discord.gg/wy2nPKUsN3-05122A?style=social&logo=Discord" alt="Discord"</a><br>
 <img src="https://img.shields.io/badge/-AshkanKD-05122A?style=social&logo=youtube" alt="youtube"</a><br>
