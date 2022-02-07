@@ -24,8 +24,8 @@
     	      DJ V: "a Music Bot Created for Discord"
     	},
     	websites: {
-    	      KD Community | KD Team: "http://kdteam.ir",
- 	      My WebSite: "https://AshkanKD.github.io",
+    	      KD Community : "https://kdteam.ir",
+ 	      My WebSite: "https://AShkanKD.ir"
 	}
 
 
