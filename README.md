@@ -27,10 +27,10 @@
                 'CSS'
     	],
     	Tools: [
-                'VS Code',
-                'Xampp',
-                'HeidiSQL',
-                'Open-IV'
+                'Visual Studio Code',
+                'GitHub',
+                'Git',
+		'Xampp'
     	],
     	hobbies:[
                 YouTube: true
@@ -73,13 +73,11 @@
 <h1 align="center">🛠️ Tool And Technology 🛠️</h1>
 
 <div align="center">
-     | <img src="https://img.shields.io/badge/Express.js%20-%23323330.svg?style=social&logo=express&logoColor=black" alt="Express" /> | 
-    <img src="https://img.shields.io/badge/git%20-%23323330.svg?style=social&logo=git" alt="Git" /> | 
-    <img src="https://img.shields.io/badge/markdown%20-%23323330.svg?style=social&logo=markdown" alt="Markdown" /> | 
-    <img src="https://img.shields.io/badge/Electron.js%20-%23323330.svg?style=social&logo=electron" alt="Electron" /> | 
-    <img src="https://img.shields.io/badge/-GitHub-05122A?style=social&logo=GitHub" alt="Github"/> | 
-    <img src="https://img.shields.io/badge/MongoDB%20-%23323330.svg?style=social&logo=mongodb" alt="mongodb"/> | 
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=social&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code"/> | 
+     | <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=social&logo=visual-studio-code&logoColor=red" alt="Visual Studio Code" /> | 
+    <img src="https://img.shields.io/badge/GitHub%20-%23323330.svg?style=social&logo=GitHub&logoColor=red" alt="GitHub" /> | 
+    <img src="https://img.shields.io/badge/Git%20-%23323330.svg?style=social&logo=Git&logoColor=red" alt="Git" /> | 
+    <img src="https://img.shields.io/badge/Xampp%20-%23323330.svg?style=social&logo=Xampp&logoColor=red" alt="Xampp" /> | 
+
 </div>
 
 <br><br>
@@ -87,9 +85,9 @@
 <h1 align="center">🖥 Operating System 🖥</h1>
 
 <p align="center">
-   | <img src="https://img.shields.io/badge/-Kali_Linux-05122A?style=social&logo=KaliLinux" alt="KaliLinux" /> | 
-  <img src="https://img.shields.io/badge/Ubuntu%20-%23323330.svg?style=social&logo=ubuntu&logoColor=orange" alt="Ubuntu" /> | 
-  <img src="https://img.shields.io/badge/Windows%20-%23323330.svg?style=social&logo=windows&logoColor=blue" alt="Windows" /> | 
+   | <img src="https://img.shields.io/badge/-Kali_Linux-05122A?style=social&logo=KaliLinux&logoColor=red" alt="KaliLinux" /> | 
+  <img src="https://img.shields.io/badge/Ubuntu%20-%23323330.svg?style=social&logo=ubuntu&logoColor=red" alt="Ubuntu" /> | 
+  <img src="https://img.shields.io/badge/Windows%20-%23323330.svg?style=social&logo=windows&logoColor=red" alt="Windows" /> | 
 </p>
 
 <br><br>
