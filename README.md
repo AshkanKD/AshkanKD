@@ -7,9 +7,8 @@
 <em>Developer of <a href="https://github.com/kdteam-ir">KD</a></em></br>
 
 ---------------------
-
-
- ```js
+<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="420" height="270" />
+<img align="right" src= ```js
   const Ashkan = {
   	pronouns: [
                 'AshkanKD',
@@ -48,9 +47,10 @@
 
 
   }
-```
+``` width="420" height="270" />
 
-```js
+
+ ```js
   const Ashkan = {
   	pronouns: [
                 'AshkanKD',
