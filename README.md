@@ -72,7 +72,7 @@
 
 <h1 align="center">🛠️ Tool And Technology 🛠️</h1>
 
-<div align="left">
+<div align="center">
      | <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=social&logo=visual-studio-code&logoColor=red" alt="Visual Studio Code" /> | 
     <img src="https://img.shields.io/badge/GitHub%20-%23323330.svg?style=social&logo=GitHub&logoColor=red" alt="GitHub" /> | 
     <img src="https://img.shields.io/badge/Git%20-%23323330.svg?style=social&logo=Git&logoColor=red" alt="Git" /> | 
@@ -102,25 +102,25 @@
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanKD&theme=dark&hide_border=true&stroke=f53b3b"  alt=""/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanKD&theme=dark&hide_border=true&stroke=f53b3b"  alt="My GitHub Stats"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AshkanKD&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&stroke=f53b3b"  alt=""/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AshkanKD&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&stroke=f53b3b"  alt="My GitHub Stats"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshkanKD&theme=dark&hide_border=true&stroke=f53b3b"  alt=""/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshkanKD&theme=dark&hide_border=true&stroke=f53b3b"  alt="My GitHub Stats"/>
 </div>
 
   <br>
 
   <div align="center">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=AshkanKD&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true"  alt=""/>     </a>
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=AshkanKD&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true"  alt="My GitHub Stats"/>     </a>
   </div>
 
 </details>
