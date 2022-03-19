@@ -45,7 +45,7 @@
                 My WebSite: "https://AshkanKD.ir"
                 KD Store : "https://kdstore.ir",
     	}
-  }
+  };
 ```
 
 <br><br>
