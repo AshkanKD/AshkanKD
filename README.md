@@ -4,51 +4,10 @@
 </h2>
 </div>
 <em>Founder of <a href="https://kdteam.ir/">KD Community</a></em></br>
-<em>Developer of <a href="https://github.com/kdteam-ir">KD</a></em></br>
+<em>Developer of <a href="https://github.com/KDCommunity">KD</a></em></br>
 
 ---------------------
 <img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="420" height="270" />
-<img align="right" src= ```js
-  const Ashkan = {
-  	pronouns: [
-                'AshkanKD',
-                'Ashkan Parsa'
-	],
-    	Languages: [
-                'Javascript',
-                'Python',
-                'lua',
-                'C++',
-                'C#',
-                'CSS',
-                'HTML'
-	],
-    	Tools: [
-                'VS Code',
-                'Xampp',
-                'HeidiSQL',
-                'Open-IV'
-	],
-    	hobbies:[
-                YouTube: true
-                twitch: true
-                Game: true
-	],  
-    	Projects: {
-                KD Store: "  ",
-                EcoBot: " | ",
-                DJ V: " | ",
-	      
-    	},
-    	websites: {
-                My WebSite: "https://AshkanKD.ir"
-                KD Store : "https://kdstore.ir",
-	}
-
-
-  }
-``` width="420" height="270" />
-
 
  ```js
   const Ashkan = {
