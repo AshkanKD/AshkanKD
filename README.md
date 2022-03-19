@@ -92,9 +92,6 @@
 
 <br><br>
 
-
----------------------
-# Info
 </hr>
 
 <details align="center">
