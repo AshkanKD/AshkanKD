@@ -14,7 +14,7 @@
   	pronouns: [
                 'AshkanKD',
                 'Ashkan Parsa'
-	],
+    	],
     	Languages: [
                 'Javascript',
                 'Python',
@@ -23,18 +23,18 @@
                 'C#',
                 'CSS',
                 'HTML'
-	],
+    	],
     	Tools: [
                 'VS Code',
                 'Xampp',
                 'HeidiSQL',
                 'Open-IV'
-	],
+    	],
     	hobbies:[
                 YouTube: true
                 twitch: true
                 Game: true
-	],  
+    	],  
     	Projects: {
                 KD Store: "Website design and programming and Discord Bot",
                 EcoBot: "Design and programming Discord Bot",
@@ -45,8 +45,6 @@
                 My WebSite: "https://AshkanKD.ir"
                 KD Store : "https://kdstore.ir",
 	}
-
-
   }
 ```
 
