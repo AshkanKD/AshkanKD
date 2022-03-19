@@ -20,7 +20,7 @@
                 'Typescript',
                 'React',
                 'Python',
-                'lua',
+                'Lua',
                 'C++',
                 'C#',
                 'HTML',
@@ -59,6 +59,7 @@
 	<img src="https://img.shields.io/badge/Typesciprt%20-%23323330.svg?style=social&logo=Typescript&logoColor=red" alt="Typescript"/> | 
 	<img src="https://img.shields.io/badge/React%20-%23323330.svg?style=social&logo=React&logoColor=red" alt="React" /> | 
 	<img src="https://img.shields.io/badge/Python%20-%23323330.svg?style=social&logo=Python&logoColor=red" alt="Python" /> | 
+	<img src="https://img.shields.io/badge/Lua%20-%23323330.svg?style=social&logo=Lua&logoColor=red" alt="Lua" /> | 
 	<img src="https://img.shields.io/badge/C++%20-%23323330.svg?style=social&logo=c%2B%2B&logoColor=red" alt="C++" /> | 
 	<img src="https://img.shields.io/badge/C%23%20-%23323330.svg?style=social&logo=c-sharp&logoColor=red" alt="C#" /> | 
 	<img src="https://img.shields.io/badge/HTML%20-%23323330.svg?style=social&logo=HTML5&logoColor=red" alt="HTML" /> | 
