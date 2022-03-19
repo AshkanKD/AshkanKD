@@ -13,8 +13,8 @@
  ```js
   const Ashkan = {
   	pronouns: [
-		'AshkanKD',
-		'Ashkan Parsa'
+                'AshkanKD',
+                'Ashkan Parsa'
 	],
     	Languages: [
 		'Javascript',
