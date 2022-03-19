@@ -151,14 +151,10 @@ Invite EcoBot : <a href="https://discord.com/api/oauth2/authorize?client_id=8355
 Music bot  made in discord.js to encourage your members to be active in your Discord server!
 
 Invite DJ V : <a href="https://discord.com/api/oauth2/authorize?client_id=836023757805715477&permissions=234253376&scope=bot%20applications.commands">Link</a>
-
+---
 	
 </details>
 
 </hr>
-
-# 👨‍💻 My Projects
-
----
 
 <div align="center"><font size="2px;"> © Created By <a href="https://github.com/AshkanKD">AshkanKD</a></a></font></div>
