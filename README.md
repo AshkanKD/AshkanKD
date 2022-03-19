@@ -34,7 +34,7 @@
     	],
     	hobbies:[
                 YouTube: true
-                twitch: true
+                Twitch: true
                 Game: true
     	],  
     	Projects: {
