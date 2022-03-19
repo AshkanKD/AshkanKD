@@ -36,7 +36,7 @@
                 Game: true
 	],  
     	Projects: {
-                KD Store: "  ",
+                KD Store: "Website design and programming and Discord Bot",
                 EcoBot: " | ",
                 DJ V: " | ",
 	      
