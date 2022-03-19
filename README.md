@@ -129,7 +129,12 @@
 
 ---------------------
 
-# 👨‍💻 My Projects
+</hr>
+
+<details align="center">
+  <summary align="center"><b align="center"><samp align="center">👨‍💻 My Projects 👨‍💻</samp></b></summary>
+<br>
+
 
 <img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="EcoBot" src="https://cdn.discordapp.com/attachments/849213611531567125/849213669216616468/mod-0_1.png">  
 
@@ -146,6 +151,13 @@ Invite EcoBot : <a href="https://discord.com/api/oauth2/authorize?client_id=8355
 Music bot  made in discord.js to encourage your members to be active in your Discord server!
 
 Invite DJ V : <a href="https://discord.com/api/oauth2/authorize?client_id=836023757805715477&permissions=234253376&scope=bot%20applications.commands">Link</a>
+
+	
+</details>
+
+</hr>
+
+# 👨‍💻 My Projects
 
 ---
 
