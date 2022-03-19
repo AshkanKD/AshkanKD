@@ -37,8 +37,8 @@
 	],  
     	Projects: {
                 KD Store: "Website design and programming and Discord Bot",
-                EcoBot: " | ",
-                DJ V: " | ",
+                EcoBot: "Design and programming Discord Bot",
+                DJ V: "Design and programming Discord Bot",
 	      
     	},
     	websites: {
