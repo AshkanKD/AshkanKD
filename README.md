@@ -18,7 +18,7 @@
     	Languages: [
                 'Javascript',
                 'Typescript',
-                'react',
+                'React',
                 'Python',
                 'lua',
                 'C++',
