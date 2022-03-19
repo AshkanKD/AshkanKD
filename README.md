@@ -17,12 +17,14 @@
     	],
     	Languages: [
                 'Javascript',
+                'Typescript',
+                'react',
                 'Python',
                 'lua',
                 'C++',
                 'C#',
-                'CSS',
-                'HTML'
+                'HTML',
+                'CSS'
     	],
     	Tools: [
                 'VS Code',
@@ -57,7 +59,6 @@
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?style=social&logo=javascript" alt="JavaScriprt"/> | 
     <img src="https://img.shields.io/badge/node.js%20-%23323330.svg?style=social&logo=node.js" alt="Node.js" /> | 
     <img src="https://img.shields.io/badge/react%20-%23323330.svg?style=social&logo=react" alt="Node.js" /> | 
-<!--     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript" /> -->
     <img src="https://img.shields.io/badge/-HTML-05122A?style=social&logo=HTML5" alt="HTML"/> | 
     <img src="https://img.shields.io/badge/-CSS-05122A?style=social&logo=CSS3&logoColor=1572B6" alt="CSS" /> | 
 </div>
