@@ -155,8 +155,6 @@
 
 # 👨‍💻 My Projects
 
----
-
 <img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="EcoBot" src="https://cdn.discordapp.com/attachments/849213611531567125/849213669216616468/mod-0_1.png">  
 
 ##  EcoBot
