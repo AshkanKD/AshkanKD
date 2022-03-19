@@ -72,7 +72,7 @@
 
 <h1 align="center">🛠️ Tool And Technology 🛠️</h1>
 
-<div align="center">
+<div align="left">
      | <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=social&logo=visual-studio-code&logoColor=red" alt="Visual Studio Code" /> | 
     <img src="https://img.shields.io/badge/GitHub%20-%23323330.svg?style=social&logo=GitHub&logoColor=red" alt="GitHub" /> | 
     <img src="https://img.shields.io/badge/Git%20-%23323330.svg?style=social&logo=Git&logoColor=red" alt="Git" /> | 
