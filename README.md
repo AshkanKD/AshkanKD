@@ -51,6 +51,47 @@
   }
 ```
 
+```js
+  const Ashkan = {
+  	pronouns: [
+                'AshkanKD',
+                'Ashkan Parsa'
+	],
+    	Languages: [
+                'Javascript',
+                'Python',
+                'lua',
+                'C++',
+                'C#',
+                'CSS',
+                'HTML'
+	],
+    	Tools: [
+                'VS Code',
+                'Xampp',
+                'HeidiSQL',
+                'Open-IV'
+	],
+    	hobbies:[
+                YouTube: true
+                twitch: true
+                Game: true
+	],  
+    	Projects: {
+                KD Store: "  ",
+                EcoBot: " | ",
+                DJ V: " | ",
+	      
+    	},
+    	websites: {
+                My WebSite: "https://AshkanKD.ir"
+                KD Store : "https://kdstore.ir",
+	}
+
+
+  }
+```
+
 ---------------------
 # Info
 </hr>
