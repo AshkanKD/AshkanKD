@@ -17,34 +17,34 @@
                 'Ashkan Parsa'
 	],
     	Languages: [
-		'Javascript',
-		'Python',
-		'lua',
-		'C++',
-		'C#',
-		'CSS',
-		'HTML'
+                'Javascript',
+                'Python',
+                'lua',
+                'C++',
+                'C#',
+                'CSS',
+                'HTML'
 	],
     	Tools: [
-		'VS Code',
-		'Xampp',
-		'HeidiSQL',
-		'Open-IV'
+                'VS Code',
+                'Xampp',
+                'HeidiSQL',
+                'Open-IV'
 	],
     	hobbies:[
-		YouTube: true
-		twitch: true
-		Game: true
+                YouTube: true
+                twitch: true
+                Game: true
 	],  
     	Projects: {
-		KD Store: "  ",
-        	EcoBot: " | ",
-    		DJ V: " | ",
+                KD Store: "  ",
+                EcoBot: " | ",
+                DJ V: " | ",
 	      
     	},
     	websites: {
-		My WebSite: "https://AshkanKD.ir"
-		KD Store : "https://kdstore.ir",
+                My WebSite: "https://AshkanKD.ir"
+                KD Store : "https://kdstore.ir",
 	}
 
 
