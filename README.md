@@ -55,12 +55,12 @@
 <h1 align="center">👨‍💻 Programming Language 👨‍💻</h1>
 
 <div align="center">
-     | <img src="https://img.shields.io/badge/typesciprt%20-%23323330.svg?style=social&logo=typescript" alt="TypeScript" /> | 
-    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?style=social&logo=javascript" alt="JavaScriprt"/> | 
-    <img src="https://img.shields.io/badge/node.js%20-%23323330.svg?style=social&logo=node.js" alt="Node.js" /> | 
-    <img src="https://img.shields.io/badge/react%20-%23323330.svg?style=social&logo=react" alt="Node.js" /> | 
-    <img src="https://img.shields.io/badge/-HTML-05122A?style=social&logo=HTML5" alt="HTML"/> | 
-    <img src="https://img.shields.io/badge/-CSS-05122A?style=social&logo=CSS3&logoColor=1572B6" alt="CSS" /> | 
+	| <img src="https://img.shields.io/badge/Javascript%20-%23323330.svg?style=social&logo=Javascript&logoColor=red" alt="Javascript" /> | 
+	<img src="https://img.shields.io/badge/Typesciprt%20-%23323330.svg?style=social&logo=Typescript&logoColor=red" alt="Typescript"/> | 
+	<img src="https://img.shields.io/badge/React%20-%23323330.svg?style=social&logo=React&logoColor=red" alt="React" /> | 
+	<img src="https://img.shields.io/badge/Python%20-%23323330.svg?style=social&logo=Python&logoColor=red" alt="Python" /> | 
+	<img src="https://img.shields.io/badge/C++%20-%23323330.svg?style=social&logo=c%2B%2B&logoColor=red" alt="C++" /> | 
+	
 </div>
 
 <br><br>
