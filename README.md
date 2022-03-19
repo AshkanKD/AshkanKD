@@ -127,8 +127,6 @@
 
 </hr>
 
----
-
 </hr>
 
 <details align="center">
