@@ -12,20 +12,39 @@
 
  ```js
   const Ashkan = {
-  	pronouns: ['AshkanKD', 'Ashkan', 'KD', 'Ashkan Parsa'],
-    	Languages: ['Javascript', 'python', 'lua', 'CSS', 'HTML'],
-    	Tools: ['VSCode', 'SV', 'Node', 'Discord.jS', 'Python 3.10'],
+  	pronouns: [
+		'AshkanKD',
+		'Ashkan Parsa'
+	],
+    	Languages: [
+		'Javascript',
+		'Python',
+		'lua',
+		'C++',
+		'C#',
+		'CSS',
+		'HTML'
+	],
+    	Tools: [
+		'VS Code',
+		'Xampp',
+		'HeidiSQL',
+		'Open-IV'
+	],
     	hobbies:[
-	    YouTube: true
-	    twitch: true
+		YouTube: true
+		twitch: true
+		Game: true
 	],  
     	Projects: {
-            EcoBot: "a Bot Created for Discor",
-    	      DJ V: "a Music Bot Created for Discord"
+		KD Store: "  ",
+        	EcoBot: " | ",
+    		DJ V: " | ",
+	      
     	},
     	websites: {
-    	      KD Store : "https://kdstore.ir",
- 	      My WebSite: "https://AshkanKD.ir"
+		My WebSite: "https://AshkanKD.ir"
+		KD Store : "https://kdstore.ir",
 	}
 
 
