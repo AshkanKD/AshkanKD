@@ -30,7 +30,7 @@
                 'Visual Studio Code',
                 'GitHub',
                 'Git',
-		'Xampp'
+                'Xampp'
     	],
     	hobbies:[
                 YouTube: true
