@@ -7,48 +7,6 @@
 <em>Developer of <a href="https://github.com/KDCommunity">KD</a></em></br>
 
 ---------------------
-<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="420" height="270" />
-
- ```js
-  const Ashkan = {
-  	pronouns: [
-                'AshkanKD',
-                'Ashkan Parsa'
-    	],
-    	Languages: [
-                'Javascript',
-                'Typescript',
-                'React',
-                'Python',
-                'Lua',
-                'C++',
-                'C#',
-                'HTML',
-                'CSS'
-    	],
-    	Tools: [
-                'Visual Studio Code',
-                'GitHub',
-                'Git',
-                'Xampp'
-    	],
-    	hobbies:[
-                YouTube: true
-                Twitch: true
-                Game: true
-    	],  
-    	Projects: {
-                KD Store: "Website design and programming and Discord Bot",
-                EcoBot: "Design and programming Discord Bot",
-                DJ V: "Design and programming Discord Bot",
-	      
-    	},
-    	websites: {
-                My WebSite: "https://AshkanKD.ir"
-                KD Store : "https://kdstore.ir",
-    	}
-  };
-```
 
 <br><br>
 
