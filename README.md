@@ -3,10 +3,6 @@
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/76/waving-hand-sign_emoji-modifier-fitzpatrick-type-1-2_1f44b-1f3fb_1f3fb.png" width="30">
 </h2>
 </div>
-<em>Founder of <a href="https://kdstore.ir/">KD Community</a></em></br>
-<em>Developer of <a href="https://github.com/KDCommunity">KD</a></em></br>
-
----------------------
 
 <br><br>
 
