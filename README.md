@@ -85,11 +85,11 @@
 <br>
 
 
-<img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="EcoBot" src="https://cdn.discordapp.com/attachments/849213611531567125/849213669216616468/mod-0_1.png">  
+<img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="KDStore.ir" src="https://kdstore.ir/wp-content/uploads/2022/03/logo1.png">  
 
-##  EcoBot
-✅  ✅
-
+##  KD Store
+Game Store
+	
 Invite EcoBot : <a href="https://discord.com/api/oauth2/authorize?client_id=835570872806014996&permissions=401768256&scope=bot%20applications.commands">Link</a>
 
 ---
