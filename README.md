@@ -90,7 +90,7 @@
 ##  KD Store
 Game Store
 	
-WebSite : <a href="https://kdstore.ir">Link</a>
+WebSite Link<a href="https://kdstore.ir">https://KDStore.ir</a>
 
 ---
 
