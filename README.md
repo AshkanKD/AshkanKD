@@ -90,7 +90,7 @@
 ##  KD Store
 Game Store
 	
-Invite EcoBot : <a href="https://discord.com/api/oauth2/authorize?client_id=835570872806014996&permissions=401768256&scope=bot%20applications.commands">Link</a>
+WebSite : <a href="https://kdstore.ir">Link</a>
 
 ---
 
