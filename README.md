@@ -3,7 +3,7 @@
 
 <br><br>
 
-<h1 align="center">/h1>
+<h1 align="center">👨‍💻 Programming Language 👨‍💻</h1>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Javascript%20-%23323330.svg?style=social&logo=Javascript&logoColor=black" alt="Javascript" /> | 
