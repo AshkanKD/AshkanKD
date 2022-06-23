@@ -1,77 +1,43 @@
-<div align="center">
-</div>
+<h1 align="center">Hi 👋, I'm Ashkan</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashkankd&label=Profile%20views&color=0e75b6&style=flat" alt="ashkankd" /> </p>
 
-<h1 align="center">👨‍💻 Programming Language 👨‍💻</h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashkankd" alt="ashkankd" /></a> </p>
 
-<div align="center">
-	<img src="https://img.shields.io/badge/Javascript%20-%23323330.svg?style=social&logo=Javascript&logoColor=black" alt="Javascript" /> | 
-	<img src="https://img.shields.io/badge/Typesciprt%20-%23323330.svg?style=social&logo=Typescript&logoColor=black" alt="Typescript" /> | 
-	<img src="https://img.shields.io/badge/React%20-%23323330.svg?style=social&logo=React&logoColor=black" alt="React" /> | 
-	<img src="https://img.shields.io/badge/Python%20-%23323330.svg?style=social&logo=Python&logoColor=black" alt="Python" /> | 
-	<img src="https://img.shields.io/badge/Lua%20-%23323330.svg?style=social&logo=Lua&logoColor=black" alt="Lua" /> | 
-	<img src="https://img.shields.io/badge/C++%20-%23323330.svg?style=social&logo=c%2B%2B&logoColor=black" alt="C++" /> | 
-	<img src="https://img.shields.io/badge/C%23%20-%23323330.svg?style=social&logo=c-sharp&logoColor=black" alt="C#" /> | 
-	<img src="https://img.shields.io/badge/HTML%20-%23323330.svg?style=social&logo=HTML5&logoColor=black" alt="HTML" /> | 
-	<img src="https://img.shields.io/badge/CSS%20-%23323330.svg?style=social&logo=CSS3&logoColor=black" alt="CSS" /> | 
+<p align="left"> <a href="https://twitter.com/ashkankd" target="blank"><img src="https://img.shields.io/twitter/follow/ashkankd?logo=twitter&style=for-the-badge" alt="ashkankd" /></a> </p>
 
-	
-</div>
+- 🔭 I’m currently working on [KD](https://discord.gg/t9wq3xsCya)
 
-<br><br>
+- 🌱 I’m currently learning **python**
 
-<h1 align="center">🛠️ Tool And Technology 🛠️</h1>
+- 👯 I’m looking to collaborate on [KDStore.ir](https://kdstore.ir)
 
-<div align="center">
-     | <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=social&logo=visual-studio-code&logoColor=black" alt="Visual Studio Code" /> | 
-    <img src="https://img.shields.io/badge/GitHub%20-%23323330.svg?style=social&logo=GitHub&logoColor=black" alt="GitHub" /> | 
-    <img src="https://img.shields.io/badge/Git%20-%23323330.svg?style=social&logo=Git&logoColor=black" alt="Git" /> | 
-    <img src="https://img.shields.io/badge/Xampp%20-%23323330.svg?style=social&logo=Xampp&logoColor=black" alt="Xampp" /> | 
+- 🤝 I’m looking for help with [KD Community](https://github.com/KDCommunity)
 
-</div>
+- 👨‍💻 All of my projects are available at [https://github.com/AshkanKD](https://github.com/AshkanKD)
 
-<br><br>
+- 📝 I regularly write articles on [https//AshkanParsa.KDMain.com](https//AshkanParsa.KDMain.com)
 
-<h1 align="center">🖥 Operating System 🖥</h1>
+- 📫 How to reach me **support@kdstore.ir**
 
-<p align="center">
-   | <img src="https://img.shields.io/badge/-Kali_Linux-05122A?style=social&logo=KaliLinux&logoColor=black" alt="KaliLinux" /> | 
-  <img src="https://img.shields.io/badge/Ubuntu%20-%23323330.svg?style=social&logo=ubuntu&logoColor=black" alt="Ubuntu" /> | 
-  <img src="https://img.shields.io/badge/Windows%20-%23323330.svg?style=social&logo=windows&logoColor=black" alt="Windows" /> | 
+- 📄 Know about my experiences [https//cv.AshkanParsa.KDMain.com](https//cv.AshkanParsa.KDMain.com)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ashkankd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashkankd" height="30" width="40" /></a>
+<a href="https://instagram.com/ashkan.kd84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashkan.kd84" height="30" width="40" /></a>
+<a href="https://discord.gg/t9wq3xsCya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="t9wq3xsCya" height="30" width="40" /></a>
 </p>
 
-<br><br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/AshkanKD"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AshkanKD" /></a><a href="https://ko-fi.com/AshkanKD"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="AshkanKD" /></a></p><br><br>
 
-<h1 align="center"> </h1>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashkankd&show_icons=true&locale=en&layout=compact" alt="ashkankd" /></p>
 
-</hr>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashkankd&show_icons=true&locale=en" alt="ashkankd" /></p>
 
-<details align="center">
-  <summary align="center"><b align="center"><samp align="center">📈 My GitHub Stats 📈</samp></b></summary>
-<br>
-	
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/AshkanKD/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanKD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/AshkanKD/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AshkanKD&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="AshkanKD's GitHub Stats" />
-</a>
-
-<a href="https://github.com/AshkanKD/AshkanKD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AshkanKD&repo=AshkanKD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/AshkanKD/Discord-Voice-Verifier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AshkanKD&repo=Discord-Voice-Verifier&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
-</details>
-
-</hr>
-
-<div align="center"><font size="2px;"> © Created By <a href="https://github.com/KDCommunity">KD Community</a> | <a href="https://discord.gg/t9wq3xsCya">Discord</a></a></font></div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashkankd&" alt="ashkankd" /></p>
