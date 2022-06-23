@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AshkanKD](https://github.com/AshkanKD)
 
-- 📝 I regularly write articles on [https//AshkanParsa.KDMain.com](https//AshkanParsa.KDMain.com)
+- 📝 I regularly write articles on [https//AshkanParsa.KDMain.ir](https//AshkanParsa.KDMain.ir)
 
 - 📫 How to reach me **support@kdstore.ir**
 
-- 📄 Know about my experiences [https//cv.AshkanParsa.KDMain.com](https//cv.AshkanParsa.KDMain.com)
+- 📄 Know about my experiences [https//cv.AshkanParsa.KDMain.ir](https//cv.AshkanParsa.KDMain.ir)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
