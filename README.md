@@ -3,11 +3,9 @@
 
 <br><br>
 
-<h1 align="center">👨‍💻 Programming Language 👨‍💻</h1>
+<h1 align="center">/h1>
 
 <div align="center">
-	| <img src="https://img.shields.io/badge/Javascript%20-%23323330.svg?style=social&logo=Javascript&logoColor=black" alt="Javascript" /> | 
-	<img src="https://img.shields.io/badge/Typesciprt%20-%23323330.svg?style=social&logo=Typescript&logoColor=black" alt="Typescript"/> | 
 	<img src="https://img.shields.io/badge/React%20-%23323330.svg?style=social&logo=React&logoColor=black" alt="React" /> | 
 	<img src="https://img.shields.io/badge/Python%20-%23323330.svg?style=social&logo=Python&logoColor=black" alt="Python" /> | 
 	<img src="https://img.shields.io/badge/Lua%20-%23323330.svg?style=social&logo=Lua&logoColor=black" alt="Lua" /> | 
@@ -18,6 +16,23 @@
 
 	
 </div>
+
+<details align="center">
+  <summary align="center"><b align="center"><samp align="center">👨‍💻 Programming Language 👨‍💻</samp></b></summary>
+<br>
+
+<img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="KDStore.ir" src="[https://kdstore.ir/wp-content/uploads/2022/03/logo1.png](https://img.shields.io/badge/Javascript%20-%23323330.svg?style=social&logo=Javascript&logoColor=black)">  
+
+##  Javascript
+---
+
+<img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="DJ V" src="https://img.shields.io/badge/Typesciprt%20-%23323330.svg?style=social&logo=Typescript&logoColor=black">  
+
+##  Typescript
+
+---
+	
+</details>
 
 <br><br>
 
