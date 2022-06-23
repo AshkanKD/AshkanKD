@@ -72,31 +72,6 @@
 
 </details>
 
-<details align="center">
-  <summary align="center"><b align="center"><samp align="center">👨‍💻 My Projects 👨‍💻</samp></b></summary>
-<br>
-
-
-<img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="KDStore.ir" src="https://kdstore.ir/wp-content/uploads/2022/03/logo1.png">  
-
-##  KD Store
-Game Store
-	
-WebSite: <a href="https://kdstore.ir">KDStore.ir</a>
-
----
-
-<img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="DJ V" src="https://cdn.discordapp.com/attachments/849213521735974912/849213597481041920/RIng_bot.png">  
-
-##  DJ V
-✅  ✅
-	
-Invite DJ V : <a href="https://discord.com/api/oauth2/authorize?client_id=836023757805715477&permissions=234253376&scope=bot%20applications.commands">Link</a>
-
----
-	
-</details>
-
 </hr>
 
 <div align="center"><font size="2px;"> © Created By <a href="https://github.com/KDCommunity">KD Community</a> | <a href="https://discord.gg/t9wq3xsCya">Discord</a></a></font></div>
