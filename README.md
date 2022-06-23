@@ -66,14 +66,11 @@
 </a>
 
 
-<a href="https://github.com/AshkanKD/discord-guide-fa">
+<a href="https://github.com/AshkanKD/Discord-Voice-Verifier">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AshkanKD&repo=discord-guide-fa&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
-
-</hr>
-
-</hr>
+</details>
 
 <details align="center">
   <summary align="center"><b align="center"><samp align="center">👨‍💻 My Projects 👨‍💻</samp></b></summary>
