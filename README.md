@@ -62,12 +62,12 @@
 </a>
 
 <a href="https://github.com/AshkanKD/AshkanKD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AshkanKD&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AshkanKD&repo=AshkanKD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
 <a href="https://github.com/AshkanKD/discord-guide-fa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AshkanKD&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AshkanKD&repo=AshkanKD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 	
