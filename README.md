@@ -29,8 +29,8 @@
 
 <h3 align="left">Support:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashkankd&show_icons=true&locale=en&layout=compact" alt="ashkankd" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashkankd&show_icons=true&locale=en&layout=compact&theme=discord_old_blurple" alt="ashkankd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashkankd&show_icons=true&locale=en" alt="ashkankd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashkankd&show_icons=true&locale=en&theme=discord_old_blurple" alt="ashkankd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashkankd&" alt="ashkankd" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashkankd&theme=discord_old_blurple" alt="ashkankd" /></p>
