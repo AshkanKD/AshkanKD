@@ -70,30 +70,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AshkanKD&repo=AshkanKD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
-	
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanKD&theme=dark&hide_border=true&stroke=f53b3b"  alt="My GitHub Stats"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AshkanKD&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&stroke=f53b3b"  alt="My GitHub Stats"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshkanKD&theme=dark&hide_border=true&stroke=f53b3b"  alt="My GitHub Stats"/>
-</div>
-
-  <br>
-
-  <div align="center">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=AshkanKD&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true"  alt="My GitHub Stats"/>     </a>
-  </div>
-
+<a href="https://github.com/AshkanKD/discord-guide-fa">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=AshkanKD&repo=AshkanKD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21](https://activity-graph.herokuapp.com/graph?username=AshkanKDtitle_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21
+)" />
+</a>  
 </details>
 
 </hr>
