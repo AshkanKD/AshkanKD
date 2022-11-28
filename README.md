@@ -1,22 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashkan</h1>
 <h3 align="center">A passionate developer from Iran</h3>
 
-- 🔭 I’m currently working on [KD](https://discord.gg/t9wq3xsCya)
-
-- 🌱 I’m currently learning **python**
-
-- 👯 I’m looking to collaborate on [KDStore.ir](https://kdstore.ir)
-
-- 🤝 I’m looking for help with [KD Community](https://github.com/KDCommunity)
-
-- 👨‍💻 All of my projects are available at [https://github.com/AshkanKD](https://github.com/AshkanKD)
-
-- 📝 I regularly write articles on [https//AshkanParsa.KDMain.ir](https//AshkanParsa.KDMain.ir)
-
-- 📫 How to reach me **support@kdstore.ir**
-
-- 📄 Know about my experiences [https//cv.AshkanParsa.KDMain.ir](https//cv.AshkanParsa.KDMain.ir)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ashkankd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashkankd" height="30" width="40" /></a>
