@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **X-UI**<br><br>- 🌱 I’m currently learning **CyberSecurity** & **UI/ UX**<br><br>- 👨‍💻 All of my projects are available at [github.com/ashkankd](github.com/ashkankd)<br><br>- 📝 I regularly write articles on [Coming Soon](Coming Soon)<br><br>- 📫 How to reach me **ashkanparsa.kd84@gmail.com**<br><br>- ⚡ Fun fact **Earth is Not Flat**
+- 🔭 I’m currently working on **X-UI**<br><br>- 🌱 I’m currently learning **CyberSecurity** & **UI/ UX**<br><br>- 👨‍💻 All of my projects are available at [github.com/ashkankd](github.com/ashkankd)<br><br>- 📝 I regularly write articles on [https://ComingSoon.com](Coming Soon)<br><br>- 📫 How to reach me **ashkanparsa.kd84@gmail.com**<br><br>- ⚡ Fun fact **Earth is Not Flat**
 
 
 ## 🌐 Socials:
